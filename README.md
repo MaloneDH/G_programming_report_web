@@ -67,5 +67,5 @@
 
 ## 사이트 주소
 
-- github.io :
-- netlify
+- github.io : [github](https://malonedh.github.io/G_programming_report_web/)
+- netlify : [netlify](https://superb-selkie-dd71db.netlify.app/)
