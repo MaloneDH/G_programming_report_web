@@ -13,20 +13,20 @@
 #### Framework 적용
 
 - Bootstrap
-  - align-items-center, row , col
+  - align-items-center, row , col, w-25
   ```html
   <section id="my_info" class="message is-dark row align-items-center">
     <!---->
     <h2 class="message-header">My info</h2>
-    <img src="images/profile.jpg" alt="홍길동의 얼굴 사진" class="col" />
-    <table class="col">
+    <img src="images/profile.jpg" alt="홍길동의 얼굴 사진" class="w-25" />
+    <table class="col ">
       ...
     </table>
   </section>
   ```
-  - table, table-striped-columns, fs-2
+  - table-warning, fs-2
   ```html
-  <table class="table table-striped-columns">
+  <table class="table-warning">
     <tbody>
       <tr>
         <th class="fs-2">이름</th>
